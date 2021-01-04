@@ -68,3 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+//
+이름, 전화번호를 각각 input에서
+data를 받아와 enter나 등록을 누르면 밑에
+밑의 검색을 활용하여 등록된것을 검색해볼수도,
+그리고 등록된것들의 삭제 수정또한 가능하도록 만들었습니다.
